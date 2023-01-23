@@ -1,0 +1,6 @@
+added tilda as default terminal (line 91)
+changed MODKEY to super on line 77
+added more colors and commented out what was unused by me
+added better comments for colors and more granularity
+changed dmenu colors as called on line 90
+
